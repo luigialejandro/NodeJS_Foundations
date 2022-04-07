@@ -33,3 +33,9 @@ console.log('Segunda instrucciòn');
 //La intención de este código fue ver como el bucle infinito, node se lo 
 //lleva a asíncrono por lo cual primero imprime los console.log y luego
 //el bucle como tal
+
+//si anexo un cambio como una instrucción nueva y ya está corriendo nodemon
+//entonces nodemon detecta el cambio, lo incluye y reinicia la cuenta
+//en tiempo real
+
+console.log('Última instrucción');

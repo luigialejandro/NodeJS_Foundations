@@ -18,3 +18,7 @@ console.log( 'Mi web es '+ web);
 
 //pero si se define el nombre desde la misma consola, quedaría entonces
 
+//correr nodemon en Windows: npx nodemon archivo.js
+
+console.log( 'otras cosas' );
+
